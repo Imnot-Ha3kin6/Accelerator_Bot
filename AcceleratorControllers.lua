@@ -1,8 +1,8 @@
 _G.AcceleratorController = {
     -- Controllers : Enter the UserID's of the players that can control the bots.
     Controllers = {
-        "707293189",
-        "12813448",
+        "702954934",
+        "672060928",
     },
     
     -- Prefix : Enter the prefix before each command.
